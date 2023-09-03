@@ -6,6 +6,7 @@
     "dev:learn": "npm -w apps/learn-starter run dev",
     "dev:navi": "npm -w apps/navigate run dev",
     "dev:asset": "npm -w apps/assets run dev",
+    "dev:fetching": "npm -w apps/fetching run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "private": true,
