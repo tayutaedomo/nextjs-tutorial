@@ -9,6 +9,7 @@
     "dev:fetching": "npm -w apps/fetching run dev",
     "dev:routes": "npm -w apps/routes run dev",
     "dev:api": "npm -w apps/api run dev",
+    "dev:lighthouse": "npm -w apps/lighthouse run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "private": true,
